@@ -1,0 +1,122 @@
+a{
+    text-decoration:none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+.title{
+    
+     background-color: #EDEDED;
+     box-shadow:10px;
+}
+
+.topbox{
+    background-color: #EDEDED;
+    height: 130px;
+    width: 100%;
+    text-align:left;
+}
+.text{
+    font-family: "aileron", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.texthead{
+    font-family: "aileron", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17px;
+}
+.img{
+    margin-left: 60px;
+}
+.container{
+    position: relative;
+    
+}
+.lowerbox{
+    position: absolute;
+    background-color: #800000;
+    height: 120px;
+    width: 100%;
+    
+    
+
+}
+
+.maintext{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "aileron", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.bottomtext{
+    font-size: 20px;
+    color: white;
+    font-family: "aileron", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    
+}
+.bottomlogo{
+    text-align: center;
+    margin-top: auto;
+
+}
+.imgpos{
+    position: absolute;
+    width:100%;
+}
+.conttext{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "aileron", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+}
+.feed{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+.feed1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "aileron", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+}
+.feed2{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+   
+}
+
+.maintext{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "aileron", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: left;
+}
